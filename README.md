@@ -1,3 +1,6 @@
+# Predictive NYC Rental Prices of AirBnb
+# Link- https://www.kaggle.com/c/predictlala2020 
+
 # Summary
 “Which variables can predict AirBnb’s listing’s price?” was the question that started my journey in the Kaggle competition.  We had to create the best predictor model with 90 variables and 39,527 observations. The score was evaluated based on Root Mean Squared Error. The lower the RMSE, the better the model.
 
