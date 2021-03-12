@@ -1,3 +1,6 @@
+# About
+This repository demonstrates work for completing a in-class Kaggle Competition, which was to build a rental price predictive model in R to predict the Airbnb Rental Prices. All credits for the work below to be given to the owner.
+
 # Airbnb Rental Prices Predictive Modeling
 
 Predictive NYC Rental Prices of AirBnb
