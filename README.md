@@ -1,4 +1,3 @@
-
 # Airbnb Rental Prices Predictive Modeling
 
 Predictive NYC Rental Prices of AirBnb
